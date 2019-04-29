@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: 'system-ui', Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smothing: grayscale;
+    color: #24272e;
+    margin-top: 60px;
+    font-size: 24px;
+    background-color: white;
+}
+
+.logo {
+    display: block;
+    margin: 20px auto;
+    height: 75px;
+}
